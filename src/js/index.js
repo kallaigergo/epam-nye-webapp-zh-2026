@@ -23,11 +23,3 @@ export function getHighEarners(staff, limit) {
 export function applyDevBonus(staff) {
     return [];
 }
-
-/**
- * Task 3: Team Statistics
- * Calculate the total salary cost of all currently ACTIVE employees.
- */
-export function calculateActivePayroll(staff) {
-    return 0;
-}
